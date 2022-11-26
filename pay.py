@@ -1,4 +1,3 @@
-#!"C:/Users/Rahul1234/anaconda3/python.exe"
 import cgi
 import mysql.connector as conn
 def htmlTop():
